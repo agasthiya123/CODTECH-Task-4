@@ -12,7 +12,7 @@
 
 **Project: MACHINE LEARNING MODEL IMPLEMENTATION**
 
-![Report Screenshot](
+![Report Screenshot](https://github.com/agasthiya123/CODTECH-Task-4/blob/main/Screenshot%20task%204.png?raw=true)
 
 **Objective:**
 
